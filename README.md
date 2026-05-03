@@ -15,6 +15,7 @@ To set up the project on a local system, follow these steps:
 git clone [https://github.com/AbhinavlKumar/Sales-Forecasting-System.git](https://github.com/AbhinavlKumar/Sales-Forecasting-System.git)
 cd sales_forecasting
 pip install -r requirements.txt
+```
 
 ## 4. Usage
 
@@ -31,3 +32,13 @@ The system will:
 - Perform statistical analysis
 - Visualize trends using graphs
 - Predict future sales values
+
+## 5. Contributing
+
+Contributions are encouraged for further improvement of the project. To contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Implement your changes
+4. Commit the changes
+5. Submit a pull request
