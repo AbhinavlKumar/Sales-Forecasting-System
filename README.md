@@ -11,6 +11,23 @@ The project demonstrates the application of data analysis and machine learning t
 ## 3. Installation
 To set up the project on a local system, follow these steps:
 
-https://github.com/AbhinavlKumar/Sales-Forecasting-System.git
+```bash
+git clone [https://github.com/AbhinavlKumar/Sales-Forecasting-System.git](https://github.com/AbhinavlKumar/Sales-Forecasting-System.git)
 cd sales_forecasting
 pip install -r requirements.txt
+
+## 4. Usage
+
+The project consists of two main modules:
+
+### Data Analysis
+python analysis.py
+### Sales Forecasting
+python forecast.py
+
+The system will:
+
+- Process and clean the dataset
+- Perform statistical analysis
+- Visualize trends using graphs
+- Predict future sales values
