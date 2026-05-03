@@ -42,3 +42,11 @@ Contributions are encouraged for further improvement of the project. To contribu
 3. Implement your changes
 4. Commit the changes
 5. Submit a pull request
+
+## 6. Team
+
+**Team Name:** ForecastX
+
+**Members:**
+- Abhinav Kumar  
+- Dev Prashat
