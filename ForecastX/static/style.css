@@ -1,1 +1,35 @@
+body {
+    background: #f5f7fb;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+.card-box {
+    background: white;
+
+    padding: 40px;
+
+    border-radius: 20px;
+
+    width: 900px;
+
+    text-align: center;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.chart-area {
+    margin-top: 30px;
+}
