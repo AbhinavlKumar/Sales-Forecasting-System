@@ -16,6 +16,8 @@ def run_analysis():
     main()
     return send_file(CHART_FILE, mimetype="image/png")
 
+@app.route("/upload", methods=["POST"])
+
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
