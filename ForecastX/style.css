@@ -1,0 +1,45 @@
+body {
+    background: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.dashboard-card {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 900px;
+
+    box-shadow:
+        0 10px 30px rgba(0, 0, 0, 0.1);
+
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    color: #222;
+}
+
+.subtitle {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.button-container {
+    margin-bottom: 30px;
+}
+
+.chart-container img {
+    width: 100%;
+    border-radius: 12px;
+}
